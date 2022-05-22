@@ -5,3 +5,9 @@ Nombres: Erick Anderson
 Apellidos: Jara Mogollon
 
 Dirección: Lima - Perú.
+
+Telefono: 989458642
+
+Email: erick.ajm1993@gmail.com
+
+Estado Civil: C
