@@ -3,3 +3,5 @@ En este documento se registraran mis datos personales:
 Nombres: Erick Anderson
 
 Apellidos: Jara Mogollon
+
+Dirección: Lima - Perú.
