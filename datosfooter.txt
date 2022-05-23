@@ -1,1 +1,13 @@
 En este documento se registra informacion del empelado footer
+
+Nombres: Miguel
+
+Apellidos: Morales 
+
+Dirección: Trujillo - Perú.
+
+Telefono: 987654321
+
+Email: m&m@gmail.com
+
+Estado Civil: S
