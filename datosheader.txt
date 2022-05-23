@@ -1,1 +1,13 @@
 En este archivo se registra informacion del empleado header
+
+Nombres: José
+
+Apellidos: Paucar
+
+Dirección: Arequipa - Perú.
+
+Telefono: 987654123
+
+Email: Jose.paucar@gmail.com
+
+Estado Civil: C
